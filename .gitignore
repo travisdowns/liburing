@@ -46,3 +46,7 @@ liburing.pc
 liburing-ffi.pc
 
 cscope.out
+
+# build directories
+/build
+/build-*
